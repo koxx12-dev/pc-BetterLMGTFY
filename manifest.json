@@ -1,0 +1,7 @@
+{
+    "name": "Better LMGTFY",
+    "version": "1.0.0",
+    "description": "LMGTFY that uses \"letmegooglethat.com\"",
+    "author": "koxx12",
+    "license": "MIT"
+}
